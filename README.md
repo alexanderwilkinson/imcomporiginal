@@ -43,7 +43,7 @@ make -j 8
 
 # Link or create the library folder in asset
   ln -s YOUR_LIB_FOLDER $IMCOMP_SOURCE_FOLDER/asset/library
-  ln -s /mnt/george/html/Ornamento/images/crops/ library
+  ln -s YOUR_LIB_FOLDER $IMCOMP_SOURCE_FOLDER/asset/imcomp/library
 
   ls library/
 A.jpg  B.jpg
